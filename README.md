@@ -28,7 +28,7 @@ Sou **Danny Radowitz Efrom**, Group Product Manager Sênior e Engenheiro Eletric
 📧 danny.radowitz.efrom@gmail.com  
 
 ---
-## Mestre em Mecatrônica 
+
 ## Publicações Acadêmicas
 
 - 📄 [Dissertação de Mestrado – Formação de Competências na Era da Informação (PDF)](https://sites.florianopolis.ifsc.edu.br/posmecatronica1/files/2014/05/drefrom-1.pdf)
