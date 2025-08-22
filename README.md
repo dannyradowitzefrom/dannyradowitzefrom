@@ -1,16 +1,32 @@
-## Hi there 👋
+# Danny Radowitz Efrom
 
-<!--
-**dannyradowitzefrom/dannyradowitzefrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Olá! Seja bem-vindo ao meu perfil no GitHub.  
+Sou **Danny Radowitz Efrom**, Product Manager Sênior e Engenheiro Eletricista, com experiência em **produto digital orientado a dados** e **consultoria técnica em engenharia elétrica (NR-10)**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Expertise em Produto Digital
+- Gestão de Produto (Product Management) em diferentes estágios do ciclo de vida  
+- Estratégia, discovery e definição de roadmaps  
+- Produto orientado a dados: SQL, GA4, Mixpanel, Amplitude, Looker Studio, Hotjar  
+- Definição e acompanhamento de métricas de sucesso (KPIs/OKRs)  
+- Criação de MVPs com **Inteligência Artificial aplicada a produto**  
+- Experiência em EdTech e soluções SaaS  
+
+---
+
+## 🔹 Experiência em Engenharia
+- Engenheiro Eletricista (CREA ativo)  
+- Instrutor de **NR-10 – Segurança em Eletricidade**  
+- Projetos e consultoria para ambientes residenciais e prediais  
+
+---
+
+## 🔹 Contato
+📍 Joinville - SC, Brasil  
+🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
+📧 seuemail@exemplo.com  
+
+---
+
+✨ Este repositório serve como minha página de apresentação no GitHub.
