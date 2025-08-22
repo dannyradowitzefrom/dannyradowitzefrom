@@ -1,7 +1,7 @@
 # Danny Radowitz Efrom
 
 👋 Olá! Seja bem-vindo ao meu perfil no GitHub.  
-Sou **Danny Radowitz Efrom**, Product Manager Sênior e Engenheiro Eletricista, com experiência em **produto digital orientado a dados** e **consultoria técnica em engenharia elétrica (NR-10)**.
+Sou **Danny Radowitz Efrom**, Group Product Manager Sênior e Engenheiro Eletricista, com experiência em **produto digital orientado a dados** e **consultoria técnica em engenharia elétrica (NR-10)**.
 
 ---
 
@@ -11,7 +11,7 @@ Sou **Danny Radowitz Efrom**, Product Manager Sênior e Engenheiro Eletricista, 
 - Produto orientado a dados: SQL, GA4, Mixpanel, Amplitude, Looker Studio, Hotjar  
 - Definição e acompanhamento de métricas de sucesso (KPIs/OKRs)  
 - Criação de MVPs com **Inteligência Artificial aplicada a produto**  
-- Experiência em EdTech e soluções SaaS  
+- Experiência em soluções SaaS  B2B/ B2C.
 
 ---
 
@@ -23,9 +23,9 @@ Sou **Danny Radowitz Efrom**, Product Manager Sênior e Engenheiro Eletricista, 
 ---
 
 ## 🔹 Contato
-📍 Joinville - SC, Brasil  
+📍 PR/SC Brasil  
 🔗 [LinkedIn](https://linkedin.com/in/seu-perfil)  
-📧 seuemail@exemplo.com  
+📧 danny.radowitz.efrom@gmail.com  
 
 ---
 
