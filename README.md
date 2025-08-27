@@ -9,9 +9,9 @@ Sou **Danny Radowitz Efrom**, Group Product Manager Sênior e Engenheiro Eletric
 - Gestão de Produto (Product Management) em diferentes estágios do ciclo de vida  
 - Estratégia, discovery e definição de roadmaps  
 - Produto orientado a dados: SQL, GA4, Mixpanel, Amplitude, Looker Studio, Hotjar  
-- Definição e acompanhamento de métricas de sucesso (KPIs/OKRs)  
+- Definição e acompanhamento de métricas de sucesso (KPIs/OKRs), gestão de projetos (PMBOK). 
 - Criação de MVPs com **Inteligência Artificial aplicada a produto**  
-- Experiência em soluções SaaS  B2B/ B2C.
+- Experiência em soluções SaaS  B2B/ B2C e integrações com ERP Protheus e SAP B1.
 
 ---
 
